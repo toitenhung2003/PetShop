@@ -1,0 +1,2397 @@
+{
+  "provinces": [
+    {
+      "name": "An Giang",
+      "cities": [
+        {
+          "name": "Huyện An Phú"
+        },
+        {
+          "name": "Huyện Châu Phú"
+        },
+        {
+          "name": "Huyện Châu Thành"
+        },
+        {
+          "name": "Huyện Chợ Mới"
+        },
+        {
+          "name": "Huyện Phú Tân"
+        },
+        {
+          "name": "Huyện Tân Châu"
+        },
+        {
+          "name": "Huyện Thoại Sơn"
+        },
+        {
+          "name": "Huyện Tịnh Biên"
+        },
+        {
+          "name": "Huyện Tri Tôn"
+        }
+      ]
+    },
+    {
+      "name": "Bà Rịa-Vũng Tàu",
+      "cities": [
+        {
+          "name": "Thành phố Vũng Tàu"
+        },
+        {
+          "name": "Thị xã Bà Rịa"
+        },
+        {
+          "name": "Huyện Châu Đức"
+        },
+        {
+          "name": "Huyện Đất Đỏ"
+        },
+        {
+          "name": "Huyện Long Điền"
+        },
+        {
+          "name": "Huyện Tân Thành"
+        },
+        {
+          "name": "Huyện Xuyên Mộc"
+        },
+        {
+          "name": "Huyện Côn Đảo"
+        }
+      ]
+    },
+    {
+      "name": "Bạc Liêu",
+      "cities": [
+        {
+          "name": "Huyện Phước Long"
+        },
+        {
+          "name": "Huyện Hồng Dân"
+        },
+        {
+          "name": "Huyện Vĩnh Lợi"
+        },
+        {
+          "name": "Huyện Giá Rai"
+        },
+        {
+          "name": "Huyện Đông Hải"
+        },
+        {
+          "name": "Huyện Hòa Bình"
+        }
+      ]
+    },
+    {
+      "name": "Bắc Cạn",
+      "cities": [
+        {
+          "name": "Thị xã Bắc Kạn"
+        },
+        {
+          "name": "Huyện Ba Bể"
+        },
+        {
+          "name": "Huyện Bạch Thông"
+        },
+        {
+          "name": "Huyện Chợ Đồn"
+        },
+        {
+          "name": "Huyện Chợ Mới"
+        },
+        {
+          "name": "Huyện Na Rì"
+        },
+        {
+          "name": "Huyện Ngân Sơn"
+        },
+        {
+          "name": "Huyện Pác Nặm"
+        }
+      ]
+    },
+    {
+      "name": "Bắc Giang",
+      "cities": [
+        {
+          "name": "Thành phố Bắc Giang"
+        },
+        {
+          "name": "Huyện Yên Thế"
+        },
+        {
+          "name": "Huyện Tân Yên"
+        },
+        {
+          "name": "Huyện Lục Ngạn"
+        },
+        {
+          "name": "Huyện Hiệp Hoà"
+        },
+        {
+          "name": "Huyện Lạng Giang"
+        },
+        {
+          "name": "Huyện Sơn Động"
+        },
+        {
+          "name": "Huyện Lục Nam"
+        },
+        {
+          "name": "Huyện Việt Yên"
+        },
+        {
+          "name": "Huyện Yên Dũng"
+        }
+      ]
+    },
+    {
+      "name": "Bắc Ninh",
+      "cities": [
+        {
+          "name": "Thành phố Bắc Ninh"
+        },
+        {
+          "name": "Huyện Gia Bình"
+        },
+        {
+          "name": "Huyện Lương Tài"
+        },
+        {
+          "name": "Huyện Quế Võ"
+        },
+        {
+          "name": "Huyện Thuận Thành"
+        },
+        {
+          "name": "Huyện Tiên Du"
+        },
+        {
+          "name": "Huyện Từ Sơn"
+        },
+        {
+          "name": "Huyện Yên Phong"
+        }
+      ]
+    },
+    {
+      "name": "Bến Tre",
+      "cities": [
+        {
+          "name": "Thị xã Bến Tre"
+        },
+        {
+          "name": "Huyện Ba Tri"
+        },
+        {
+          "name": "Huyện Bình Đại"
+        },
+        {
+          "name": "Huyện Châu Thành"
+        },
+        {
+          "name": "Huyện Chợ Lách"
+        },
+        {
+          "name": "Huyện Giồng Trôm"
+        },
+        {
+          "name": "Huyện Mỏ Cày"
+        },
+        {
+          "name": "Huyện Thạnh Phú"
+        }
+      ]
+    },
+    {
+      "name": "Bình Dương",
+      "cities": [
+        {
+          "name": "Thị xã Thủ Dầu Một"
+        },
+        {
+          "name": "Huyện Bến Cát"
+        },
+        {
+          "name": "Huyện Dầu Tiếng"
+        },
+        {
+          "name": "Huyện Tân Uyên"
+        },
+        {
+          "name": "Huyện Phú Giáo"
+        },
+        {
+          "name": "Huyện Thuận An"
+        },
+        {
+          "name": "Huyện Dĩ An"
+        }
+      ]
+    },
+    {
+      "name": "Bình Định",
+      "cities": [
+        {
+          "name": "Thành phố Qui Nhơn"
+        },
+        {
+          "name": "Huyện An Lão"
+        },
+        {
+          "name": "Huyện An Nhơn"
+        },
+        {
+          "name": "Huyện Hoài Ân"
+        },
+        {
+          "name": "Huyện Hoài Nhơn"
+        },
+        {
+          "name": "Huyện Phù Cát"
+        },
+        {
+          "name": "Huyện Phù Mỹ"
+        },
+        {
+          "name": "Huyện Tuy Phước"
+        },
+        {
+          "name": "Huyện Tây Sơn"
+        },
+        {
+          "name": "Huyện Vân Canh"
+        },
+        {
+          "name": "Huyện Vĩnh Thạnh"
+        }
+      ]
+    },
+    {
+      "name": "Bình Phước",
+      "cities": [
+        {
+          "name": "Thị xã Đồng Xoài"
+        },
+        {
+          "name": "Huyện Bình Long"
+        },
+        {
+          "name": "Huyện Bù Đăng"
+        },
+        {
+          "name": "Huyện Bù Đốp"
+        },
+        {
+          "name": "Huyện Chơn Thành"
+        },
+        {
+          "name": "Huyện Đồng Phú"
+        },
+        {
+          "name": "Huyện Lộc Ninh"
+        },
+        {
+          "name": "Huyện Phước Long"
+        }
+      ]
+    },
+    {
+      "name": "Bình Thuận",
+      "cities": [
+        {
+          "name": "Thành phố Phan Thiết"
+        },
+        {
+          "name": "Thị xã La Gi"
+        },
+        {
+          "name": "Huyện Tuy Phong"
+        },
+        {
+          "name": "Huyện Bắc Bình"
+        },
+        {
+          "name": "Huyện Hàm Thuận Bắc"
+        },
+        {
+          "name": "Huyện Hàm Thuận Nam"
+        },
+        {
+          "name": "Huyện Tánh Linh"
+        },
+        {
+          "name": "Huyện Hàm Tân"
+        },
+        {
+          "name": "Huyện Đức Linh"
+        },
+        {
+          "name": "Huyện đảo Phú Quý"
+        }
+      ]
+    },
+    {
+      "name": "Cà Mau",
+      "cities": [
+        {
+          "name": "Thành phố Cà Mau"
+        },
+        {
+          "name": "Huyện Đầm Dơi"
+        },
+        {
+          "name": "Huyện Ngọc Hiển"
+        },
+        {
+          "name": "Huyện Cái Nước"
+        },
+        {
+          "name": "Huyện Trần Văn Thời"
+        },
+        {
+          "name": "Huyện U Minh"
+        },
+        {
+          "name": "Huyện Thới Bình"
+        },
+        {
+          "name": "Huyện Năm Căn"
+        },
+        {
+          "name": "Huyện Phú Tân"
+        }
+      ]
+    },
+    {
+      "name": "Cao Bằng",
+      "cities": [
+        {
+          "name": "Thị xã Cao Bằng"
+        },
+        {
+          "name": "Huyện Bảo Lạc"
+        },
+        {
+          "name": "Huyện Bảo Lâm"
+        },
+        {
+          "name": "Huyện Hạ Lang"
+        },
+        {
+          "name": "Huyện Hà Quảng"
+        },
+        {
+          "name": "Huyện Hòa An"
+        },
+        {
+          "name": "Huyện Nguyên Bình"
+        },
+        {
+          "name": "Huyện Phục Hòa"
+        },
+        {
+          "name": "Huyện Quảng Uyên"
+        },
+        {
+          "name": "Huyện Thạch An"
+        },
+        {
+          "name": "Huyện Thông Nông"
+        },
+        {
+          "name": "Huyện Trà Lĩnh"
+        },
+        {
+          "name": "Huyện Trùng Khánh"
+        }
+      ]
+    },
+    {
+      "name": "Cần Thơ",
+      "cities": [
+        {
+          "name": "Quận Ninh Kiều"
+        },
+        {
+          "name": "Quận Bình Thủy"
+        },
+        {
+          "name": "Quận Cái Răng"
+        },
+        {
+          "name": "Quận Ô Môn"
+        },
+        {
+          "name": "Huyện Phong Điền"
+        },
+        {
+          "name": "Huyện Cờ Đỏ"
+        },
+        {
+          "name": "Huyện Thốt Nốt"
+        },
+        {
+          "name": "Huyện Vĩnh Thạnh"
+        }
+      ]
+    },
+    {
+      "name": "Đà Nẵng",
+      "cities": [
+        {
+          "name": "Quận Hải Châu"
+        },
+        {
+          "name": "Quận Thanh Khê"
+        },
+        {
+          "name": "Quận Sơn Trà"
+        },
+        {
+          "name": "Quận Ngũ Hành Sơn"
+        },
+        {
+          "name": "Quận Liên Chiểu"
+        },
+        {
+          "name": "Quận Cẩm Lệ"
+        },
+        {
+          "name": "Huyện Hòa Vang"
+        },
+        {
+          "name": "Huyện đảo Hoàng Sa"
+        }
+      ]
+    },
+    {
+      "name": "Đắk Lắk",
+      "cities": [
+        {
+          "name": "Thành phố Buôn Ma Thuột"
+        },
+        {
+          "name": "Huyện Krông Buk"
+        },
+        {
+          "name": "Huyện Krông Pak"
+        },
+        {
+          "name": "Huyện Lắk"
+        },
+        {
+          "name": "Huyện Ea Súp"
+        },
+        {
+          "name": "Huyện M'Drăk"
+        },
+        {
+          "name": "Huyện Krông Ana"
+        },
+        {
+          "name": "Huyện Krông Bông"
+        },
+        {
+          "name": "Huyện Ea H'leo"
+        },
+        {
+          "name": "Huyện Cư M'gar"
+        },
+        {
+          "name": "Huyện Krông Năng"
+        },
+        {
+          "name": "Huyện Buôn Đôn"
+        },
+        {
+          "name": "Huyện Ea Kar"
+        },
+        {
+          "name": "Huyện Cư Kuin"
+        }
+      ]
+    },
+    {
+      "name": "Đắk Nông",
+      "cities": [
+        {
+          "name": "Thị xã Gia Nghĩa"
+        },
+        {
+          "name": "Huyện Cư Jút"
+        },
+        {
+          "name": "Huyện Đăk Glong"
+        },
+        {
+          "name": "Huyện Đăk Mil"
+        },
+        {
+          "name": "Huyện Đăk R'Lấp"
+        },
+        {
+          "name": "Huyện Đăk Song"
+        },
+        {
+          "name": "Huyện Krông Nô"
+        },
+        {
+          "name": "Huyện Tuy Đức"
+        }
+      ]
+    },
+    {
+      "name": "Điện Biên",
+      "cities": [
+        {
+          "name": "Thành phố Điện Biên Phủ"
+        },
+        {
+          "name": "Thị xã Mường Lay"
+        },
+        {
+          "name": "Huyện Điện Biên"
+        },
+        {
+          "name": "Huyện Điện Biên Đông"
+        },
+        {
+          "name": "Huyện Mường Ảng"
+        },
+        {
+          "name": "Huyện Mường Chà"
+        },
+        {
+          "name": "Huyện Mường Nhé"
+        },
+        {
+          "name": "Huyện Tủa Chùa"
+        },
+        {
+          "name": "Huyện Tuần Giáo"
+        }
+      ]
+    },
+    {
+      "name": "Đồng Nai",
+      "cities": [
+        {
+          "name": "Thành phố Biên Hoà"
+        },
+        {
+          "name": "Thị xã Long Khánh"
+        },
+        {
+          "name": "Huyện Định Quán"
+        },
+        {
+          "name": "Huyện Long Thành"
+        },
+        {
+          "name": "Huyện Nhơn Trạch"
+        },
+        {
+          "name": "Huyện Tân Phú"
+        },
+        {
+          "name": "Huyện Thống Nhất"
+        },
+        {
+          "name": "Huyện Vĩnh Cửu"
+        },
+        {
+          "name": "Huyện Xuân Lộc"
+        },
+        {
+          "name": "Huyện Cẩm Mỹ"
+        },
+        {
+          "name": "Huyện Trảng Bom"
+        }
+      ]
+    },
+    {
+      "name": "Đồng Tháp",
+      "cities": [
+        {
+          "name": "Thành phố Cao Lãnh"
+        },
+        {
+          "name": "Thị xã Sa Đéc"
+        },
+        {
+          "name": "Huyện Cao Lãnh"
+        },
+        {
+          "name": "Huyện Châu Thành"
+        },
+        {
+          "name": "Huyện Hồng Ngự"
+        },
+        {
+          "name": "Huyện Lai Vung"
+        },
+        {
+          "name": "Huyện Lấp Vò"
+        },
+        {
+          "name": "Huyện Tam Nông"
+        },
+        {
+          "name": "Huyện Tân Hồng"
+        },
+        {
+          "name": "Huyện Thanh Bình"
+        },
+        {
+          "name": "Huyện Tháp Mười"
+        }
+      ]
+    },
+    {
+      "name": "Gia Lai",
+      "cities": [
+        {
+          "name": "Thành phố Pleiku"
+        },
+        {
+          "name": "Thị xã An Khê"
+        },
+        {
+          "name": "Thị xã Ayun Pa"
+        },
+        {
+          "name": "Huyện Chư Păh"
+        },
+        {
+          "name": "Huyện Chư Prông"
+        },
+        {
+          "name": "Huyện Chư Sê"
+        },
+        {
+          "name": "Huyện Đắk Đoa"
+        },
+        {
+          "name": "Huyện Đắk Pơ"
+        },
+        {
+          "name": "Huyện Đức Cơ"
+        },
+        {
+          "name": "Huyện Ia Grai"
+        },
+        {
+          "name": "Huyện Ia Pa"
+        },
+        {
+          "name": "Huyện K'Bang"
+        },
+        {
+          "name": "Huyện Kông Chro"
+        },
+        {
+          "name": "Huyện Krông Pa"
+        },
+        {
+          "name": "Huyện Mang Yang"
+        },
+        {
+          "name": "Huyện Phú Thiện"
+        }
+      ]
+    },
+    {
+      "name": "Hà Giang",
+      "cities": [
+        {
+          "name": "Thị xã Hà Giang"
+        },
+        {
+          "name": "Huyện Bắc Mê"
+        },
+        {
+          "name": "Huyện Bắc Quang"
+        },
+        {
+          "name": "Huyện Đồng Văn"
+        },
+        {
+          "name": "Huyện Hoàng Su Phì"
+        },
+        {
+          "name": "Huyện Mèo Vạc"
+        },
+        {
+          "name": "Huyện Quản Bạ"
+        },
+        {
+          "name": "Huyện Quang Bình"
+        },
+        {
+          "name": "Huyện Vị Xuyên"
+        },
+        {
+          "name": "Huyện Xín Mần"
+        },
+        {
+          "name": "Huyện Yên Minh"
+        }
+      ]
+    },
+    {
+      "name": "Hà Nam",
+      "cities": [
+        {
+          "name": "Thành phố Phủ Lý"
+        },
+        {
+          "name": "Huyện Bình Lục"
+        },
+        {
+          "name": "Huyện Duy Tiên"
+        },
+        {
+          "name": "Huyện Kim Bảng"
+        },
+        {
+          "name": "Huyện Lý Nhân"
+        },
+        {
+          "name": "Huyện Thanh Liêm"
+        }
+      ]
+    },
+    {
+      "name": "Hà Nội",
+      "cities": [
+        {
+          "name": "Quận Ba Đình"
+        },
+        {
+          "name": "Quận Cầu Giấy"
+        },
+        {
+          "name": "Quận Đống Đa"
+        },
+        {
+          "name": "Quận Hai Bà Trưng"
+        },
+        {
+          "name": "Quận Hoàn Kiếm"
+        },
+        {
+          "name": "Quận Hoàng Mai"
+        },
+        {
+          "name": "Quận Long Biên"
+        },
+        {
+          "name": "Quận Tây Hồ"
+        },
+        {
+          "name": "Quận Thanh Xuân"
+        },
+        {
+          "name": "Huyện Ba Vì"
+        },
+        {
+          "name": "Huyện Chương Mỹ"
+        },
+        {
+          "name": "Huyện Đan Phượng"
+        },
+        {
+          "name": "Huyện Đông Anh"
+        },
+        {
+          "name": "Huyện Gia Lâm"
+        },
+        {
+          "name": "Huyện Hoài Đức"
+        },
+        {
+          "name": "Huyện Mê Linh"
+        },
+        {
+          "name": "Huyện Mỹ Đức"
+        },
+        {
+          "name": "Huyện Phú Xuyên"
+        },
+        {
+          "name": "Huyện Phúc Thọ"
+        },
+        {
+          "name": "Huyện Quốc Oai"
+        },
+        {
+          "name": "Huyện Sóc Sơn"
+        },
+        {
+          "name": "Huyện Thạch Thất"
+        },
+        {
+          "name": "Huyện Thanh Oai"
+        },
+        {
+          "name": "Huyện Thanh Trì"
+        },
+        {
+          "name": "Huyện Thường Tín"
+        },
+        {
+          "name": "Huyện Từ Liêm"
+        },
+        {
+          "name": "Huyện Ứng Hòa"
+        }
+      ]
+    },
+    {
+      "name": "Hà Tây",
+      "cities": [
+        {
+          "name": "Thành phố Hà Đông"
+        },
+        {
+          "name": "Thành phố Sơn Tây"
+        },
+        {
+          "name": "Huyện Ba Vì"
+        },
+        {
+          "name": "Huyện Chương Mỹ"
+        },
+        {
+          "name": "Huyện Đan Phượng"
+        },
+        {
+          "name": "Huyện Hoài Đức"
+        },
+        {
+          "name": "Huyện Mỹ Đức"
+        },
+        {
+          "name": "Huyện Phú Xuyên"
+        },
+        {
+          "name": "Huyện Phúc Thọ"
+        },
+        {
+          "name": "Huyện Quốc Oai"
+        },
+        {
+          "name": "Huyện Thạch Thất"
+        },
+        {
+          "name": "Huyện Thanh Oai"
+        },
+        {
+          "name": "Huyện Thường Tín"
+        },
+        {
+          "name": "Huyện Ứng Hòa"
+        }
+      ]
+    },
+    {
+      "name": "Hà Tĩnh",
+      "cities": [
+        {
+          "name": "Thành phố Hà Tĩnh"
+        },
+        {
+          "name": "Thị xã Hồng Lĩnh"
+        },
+        {
+          "name": "Huyện Cẩm Xuyên"
+        },
+        {
+          "name": "Huyện Can Lộc"
+        },
+        {
+          "name": "Huyện Đức Thọ"
+        },
+        {
+          "name": "Huyện Hương Khê"
+        },
+        {
+          "name": "Huyện Hương Sơn"
+        },
+        {
+          "name": "Huyện Kỳ Anh"
+        },
+        {
+          "name": "Huyện Nghi Xuân"
+        },
+        {
+          "name": "Huyện Thạch Hà"
+        },
+        {
+          "name": "Huyện Vũ Quang"
+        },
+        {
+          "name": "Huyện Lộc Hà"
+        }
+      ]
+    },
+    {
+      "name": "Hải Dương",
+      "cities": [
+        {
+          "name": "Thành phố Hải Dương"
+        },
+        {
+          "name": "Huyện Bình Giang"
+        },
+        {
+          "name": "Huyện Cẩm Giàng"
+        },
+        {
+          "name": "Huyện Chí Linh"
+        },
+        {
+          "name": "Huyện Gia Lộc"
+        },
+        {
+          "name": "Huyện Kim Thành"
+        },
+        {
+          "name": "Huyện Kinh Môn"
+        },
+        {
+          "name": "Huyện Nam Sách"
+        },
+        {
+          "name": "Huyện Ninh Giang"
+        },
+        {
+          "name": "Huyện Thanh Hà"
+        },
+        {
+          "name": "Huyện Thanh Miện"
+        },
+        {
+          "name": "Huyện Tứ Kỳ"
+        }
+      ]
+    },
+    {
+      "name": "Hải Phòng",
+      "cities": [
+        {
+          "name": "Quận Dương Kinh"
+        },
+        {
+          "name": "Quận Đồ Sơn"
+        },
+        {
+          "name": "Quận Hải An"
+        },
+        {
+          "name": "Quận Hồng Bàng"
+        },
+        {
+          "name": "Quận Kiến An"
+        },
+        {
+          "name": "Quận Lê Chân"
+        },
+        {
+          "name": "Quận Ngô Quyền"
+        },
+        {
+          "name": "Huyện An Dương"
+        },
+        {
+          "name": "Huyện An Lão"
+        },
+        {
+          "name": "Huyện đảo Bạch Long Vĩ"
+        },
+        {
+          "name": "Huyện đảo Cát Hải"
+        },
+        {
+          "name": "Huyện Kiến Thụy"
+        },
+        {
+          "name": "Huyện Thủy Nguyên"
+        },
+        {
+          "name": "Huyện Tiên Lãng"
+        },
+        {
+          "name": "Huyện Vĩnh Bảo"
+        }
+      ]
+    },
+    {
+      "name": "Hậu Giang",
+      "cities": [
+        {
+          "name": "Thị xã Vị Thanh"
+        },
+        {
+          "name": "Thị xã Ngã Bảy"
+        },
+        {
+          "name": "Huyện Châu Thành"
+        },
+        {
+          "name": "Huyện Châu Thành A"
+        },
+        {
+          "name": "Huyện Long Mỹ"
+        },
+        {
+          "name": "Huyện Phụng Hiệp"
+        },
+        {
+          "name": "Huyện Vị Thủy"
+        }
+      ]
+    },
+    {
+      "name": "Hòa Bình",
+      "cities": [
+        {
+          "name": "Thành phố Hòa Bình"
+        },
+        {
+          "name": "Huyện Lương Sơn"
+        },
+        {
+          "name": "Huyện Cao Phong"
+        },
+        {
+          "name": "Huyện Đà Bắc"
+        },
+        {
+          "name": "Huyện Kim Bôi"
+        },
+        {
+          "name": "Huyện Kỳ Sơn"
+        },
+        {
+          "name": "Huyện Lạc Sơn"
+        },
+        {
+          "name": "Huyện Lạc Thủy"
+        },
+        {
+          "name": "Huyện Mai Châu"
+        },
+        {
+          "name": "Huyện Tân Lạc"
+        },
+        {
+          "name": "Huyện Yên Thủy"
+        }
+      ]
+    },
+    {
+      "name": "TP Hồ Chí Minh",
+      "cities": [
+        {
+          "name": "Quận 1"
+        },
+        {
+          "name": "Quận 2"
+        },
+        {
+          "name": "Quận 3"
+        },
+        {
+          "name": "Quận 4"
+        },
+        {
+          "name": "Quận 5"
+        },
+        {
+          "name": "Quận 6"
+        },
+        {
+          "name": "Quận 7"
+        },
+        {
+          "name": "Quận 8"
+        },
+        {
+          "name": "Quận 9"
+        },
+        {
+          "name": "Quận 10"
+        },
+        {
+          "name": "Quận 11"
+        },
+        {
+          "name": "Quận 12"
+        },
+        {
+          "name": "Quận Bình Chánh"
+        },
+        {
+          "name": "Quận Bình Tân"
+        },
+        {
+          "name": "Quận Bình Thạnh"
+        },
+        {
+          "name": "Quận Gò Vấp"
+        },
+        {
+          "name": "Quận Hóc Môn"
+        },
+        {
+          "name": "Quận Nhà Bè"
+        },
+        {
+          "name": "Quận Phú Nhuận"
+        },
+        {
+          "name": "Quận Tân Bình"
+        },
+        {
+          "name": "Quận Tân Phú"
+        },
+        {
+          "name": "Quận Thủ Đức"
+        }
+      ]
+    },
+    {
+      "name": "Hưng Yên",
+      "cities": [
+        {
+          "name": "Thị xã Hưng Yên"
+        },
+        {
+          "name": "Huyện Ân Thi"
+        },
+        {
+          "name": "Huyện Khoái Châu"
+        },
+        {
+          "name": "Huyện Kim Động"
+        },
+        {
+          "name": "Huyện Mỹ Hào"
+        },
+        {
+          "name": "Huyện Phù Cừ"
+        },
+        {
+          "name": "Huyện Tiên Lữ"
+        },
+        {
+          "name": "Huyện Văn Giang"
+        },
+        {
+          "name": "Huyện Văn Lâm"
+        },
+        {
+          "name": "Huyện Yên Mỹ"
+        }
+      ]
+    },
+    {
+      "name": "Khánh Hòa",
+      "cities": [
+        {
+          "name": "Thành phố Nha Trang"
+        },
+        {
+          "name": "Thị xã Cam Ranh"
+        },
+        {
+          "name": "Huyện Cam Lâm"
+        },
+        {
+          "name": "Huyện Vạn Ninh"
+        },
+        {
+          "name": "Huyện Ninh Hòa"
+        },
+        {
+          "name": "Huyện Diên Khánh"
+        },
+        {
+          "name": "Huyện Khánh Vĩnh"
+        },
+        {
+          "name": "Huyện Khánh Sơn"
+        },
+        {
+          "name": "Huyện đảo Trường Sa"
+        }
+      ]
+    },
+    {
+      "name": "Kiên Giang",
+      "cities": [
+        {
+          "name": "Thành phố Rạch Giá"
+        },
+        {
+          "name": "Thị xã Hà Tiên"
+        },
+        {
+          "name": "Huyện An Biên"
+        },
+        {
+          "name": "Huyện An Minh"
+        },
+        {
+          "name": "Huyện Châu Thành"
+        },
+        {
+          "name": "Huyện Giồng Riềng"
+        },
+        {
+          "name": "Huyện Gò Quao"
+        },
+        {
+          "name": "Huyện Hòn Đất"
+        },
+        {
+          "name": "Huyện Kiên Hải"
+        },
+        {
+          "name": "Huyện Kiên Lương"
+        },
+        {
+          "name": "Huyện Phú Quốc"
+        },
+        {
+          "name": "Huyện Tân Hiệp"
+        },
+        {
+          "name": "Huyện Vĩnh Thuận"
+        },
+        {
+          "name": "Huyện U Minh Thượng"
+        }
+      ]
+    },
+    {
+      "name": "Kon Tum",
+      "cities": [
+        {
+          "name": "Thị xã Kon Tum"
+        },
+        {
+          "name": "Huyện Đắk Glei"
+        },
+        {
+          "name": "Huyện Đắk Hà"
+        },
+        {
+          "name": "Huyện Đắk Tô"
+        },
+        {
+          "name": "Huyện Kon Plông"
+        },
+        {
+          "name": "Huyện Kon Rẫy"
+        },
+        {
+          "name": "Huyện Ngọc Hồi"
+        },
+        {
+          "name": "Huyện Sa Thầy"
+        },
+        {
+          "name": "Huyện Tu Mơ Rông"
+        }
+      ]
+    },
+    {
+      "name": "Lai Châu",
+      "cities": [
+        {
+          "name": "Thị xã Lai Châu"
+        },
+        {
+          "name": "Huyện Mường Tè"
+        },
+        {
+          "name": "Huyện Phong Thổ"
+        },
+        {
+          "name": "Huyện Sìn Hồ"
+        },
+        {
+          "name": "Huyện Tam Đường"
+        },
+        {
+          "name": "Huyện Than Uyên"
+        }
+      ]
+    },
+    {
+      "name": "Lạng Sơn",
+      "cities": [
+        {
+          "name": "Thành phố Lạng Sơn"
+        },
+        {
+          "name": "Huyện Tràng Định"
+        },
+        {
+          "name": "Huyện Văn Lãng"
+        },
+        {
+          "name": "Huyện Văn Quan"
+        },
+        {
+          "name": "Huyện Bình Gia"
+        },
+        {
+          "name": "Huyện Bắc Sơn"
+        },
+        {
+          "name": "Huyện Hữu Lũng"
+        },
+        {
+          "name": "Huyện Chi Lăng"
+        },
+        {
+          "name": "Huyện Cao Lộc"
+        },
+        {
+          "name": "Huyện Lộc Bình"
+        },
+        {
+          "name": "Huyện Đình Lập"
+        }
+      ]
+    },
+    {
+      "name": "Lào Cai",
+      "cities": [
+        {
+          "name": "Thành phố Lào Cai"
+        },
+        {
+          "name": "Huyện Bảo Thắng"
+        },
+        {
+          "name": "Huyện Bảo Yên"
+        },
+        {
+          "name": "Huyện Bát Xát"
+        },
+        {
+          "name": "Huyện Bắc Hà"
+        },
+        {
+          "name": "Huyện Mường Khương"
+        },
+        {
+          "name": "Huyện Sa Pa"
+        },
+        {
+          "name": "Huyện Si Ma Cai"
+        },
+        {
+          "name": "Huyện Văn Bàn"
+        }
+      ]
+    },
+    {
+      "name": "Lâm Đồng",
+      "cities": [
+        {
+          "name": "Thành phố Đà Lạt"
+        },
+        {
+          "name": "Thị xã Bảo Lộc"
+        },
+        {
+          "name": "Huyện Lạc Dương"
+        },
+        {
+          "name": "Huyện Đơn Dương"
+        },
+        {
+          "name": "Huyện Đức Trọng"
+        },
+        {
+          "name": "Huyện Lâm Hà"
+        },
+        {
+          "name": "Huyện Đam Rông"
+        },
+        {
+          "name": "Huyện Bảo Lâm"
+        },
+        {
+          "name": "Huyện Di Linh"
+        },
+        {
+          "name": "Huyện Đạ Huoai"
+        },
+        {
+          "name": "Huyện Đạ Tẻh"
+        },
+        {
+          "name": "Huyện Cát Tiên"
+        }
+      ]
+    },
+    {
+      "name": "Long An",
+      "cities": [
+        {
+          "name": "Thị xã Tân An"
+        },
+        {
+          "name": "Huyện Bến Lức"
+        },
+        {
+          "name": "Huyện Cần Đước"
+        },
+        {
+          "name": "Huyện Cần Giuộc"
+        },
+        {
+          "name": "Huyện Châu Thành"
+        },
+        {
+          "name": "Huyện Đức Hòa"
+        },
+        {
+          "name": "Huyện Đức Huệ"
+        },
+        {
+          "name": "Huyện Mộc Hóa"
+        },
+        {
+          "name": "Huyện Tân Hưng"
+        },
+        {
+          "name": "Huyện Tân Thạnh"
+        },
+        {
+          "name": "Huyện Tân Trụ"
+        },
+        {
+          "name": "Huyện Thạnh Hóa"
+        },
+        {
+          "name": "Huyện Thủ Thừa"
+        },
+        {
+          "name": "Huyện Vĩnh Hưng"
+        }
+      ]
+    },
+    {
+      "name": "Nam Định",
+      "cities": [
+        {
+          "name": "Thành phố Nam Định"
+        },
+        {
+          "name": "Huyện Giao Thủy"
+        },
+        {
+          "name": "Huyện Hải Hậu"
+        },
+        {
+          "name": "Huyện Mỹ Lộc"
+        },
+        {
+          "name": "Huyện Nam Trực"
+        },
+        {
+          "name": "Huyện Nghĩa Hưng"
+        },
+        {
+          "name": "Huyện Trực Ninh"
+        },
+        {
+          "name": "Huyện Vụ Bản"
+        },
+        {
+          "name": "Huyện Xuân Trường"
+        },
+        {
+          "name": "Huyện Ý Yên"
+        }
+      ]
+    },
+    {
+      "name": "Nghệ An",
+      "cities": [
+        {
+          "name": "Thành phố Vinh"
+        },
+        {
+          "name": "Thị xã Cửa Lò"
+        },
+        {
+          "name": "Thị xã Thái Hòa"
+        },
+        {
+          "name": "Huyện Anh Sơn"
+        },
+        {
+          "name": "Huyện Con Cuông"
+        },
+        {
+          "name": "Huyện Diễn Châu"
+        },
+        {
+          "name": "Huyện Đô Lương"
+        },
+        {
+          "name": "Huyện Hưng Nguyên"
+        },
+        {
+          "name": "Huyện Quỳ Châu"
+        },
+        {
+          "name": "Huyện Kỳ Sơn"
+        },
+        {
+          "name": "Huyện Nam Đàn"
+        },
+        {
+          "name": "Huyện Nghi Lộc"
+        },
+        {
+          "name": "Huyện Nghĩa Đàn"
+        },
+        {
+          "name": "Huyện Quế Phong"
+        },
+        {
+          "name": "Huyện Quỳ Hợp"
+        },
+        {
+          "name": "Huyện Quỳnh Lưu"
+        },
+        {
+          "name": "Huyện Tân Kỳ"
+        },
+        {
+          "name": "Huyện Thanh Chương"
+        },
+        {
+          "name": "Huyện Tương Dương"
+        },
+        {
+          "name": "Huyện Yên Thành"
+        }
+      ]
+    },
+    {
+      "name": "Ninh Bình",
+      "cities": [
+        {
+          "name": "Thành phố Ninh Bình"
+        },
+        {
+          "name": "Thị xã Tam Điệp"
+        },
+        {
+          "name": "Huyện Gia Viễn"
+        },
+        {
+          "name": "Huyện Hoa Lư"
+        },
+        {
+          "name": "Huyện Kim Sơn"
+        },
+        {
+          "name": "Huyện Nho Quan"
+        },
+        {
+          "name": "Huyện Yên Khánh"
+        },
+        {
+          "name": "Huyện Yên Mô"
+        }
+      ]
+    },
+    {
+      "name": "Ninh Thuận",
+      "cities": [
+        {
+          "name": "Thành phố Phan Rang-Tháp Chàm"
+        },
+        {
+          "name": "Huyện Bác Ái"
+        },
+        {
+          "name": "Ninh Hải"
+        },
+        {
+          "name": "Ninh Phước"
+        },
+        {
+          "name": "Ninh Sơn"
+        },
+        {
+          "name": "Thuận Bắc"
+        }
+      ]
+    },
+    {
+      "name": "Phú Thọ",
+      "cities": [
+        {
+          "name": "Thành phố Việt Trì"
+        },
+        {
+          "name": "Thị xã Phú Thọ"
+        },
+        {
+          "name": "Huyện Cẩm Khê"
+        },
+        {
+          "name": "Huyện Đoan Hùng"
+        },
+        {
+          "name": "Huyện Hạ Hòa"
+        },
+        {
+          "name": "Huyện Lâm Thao"
+        },
+        {
+          "name": "Huyện Phù Ninh"
+        },
+        {
+          "name": "Huyện Tam Nông"
+        },
+        {
+          "name": "Huyện Tân Sơn"
+        },
+        {
+          "name": "Huyện Thanh Ba"
+        },
+        {
+          "name": "Huyện Thanh Sơn"
+        },
+        {
+          "name": "Huyện Thanh Thủy"
+        },
+        {
+          "name": "Huyện Yên Lập"
+        }
+      ]
+    },
+    {
+      "name": "Phú Yên",
+      "cities": [
+        {
+          "name": "Thành phố Tuy Hòa"
+        },
+        {
+          "name": "Huyện Đông Hòa"
+        },
+        {
+          "name": "Huyện Đồng Xuân"
+        },
+        {
+          "name": "Huyện Phú Hòa"
+        },
+        {
+          "name": "Huyện Sơn Hòa"
+        },
+        {
+          "name": "Huyện Sông Cầu"
+        },
+        {
+          "name": "Huyện Sông Hinh"
+        },
+        {
+          "name": "Huyện Tây Hòa"
+        },
+        {
+          "name": "Huyện Tuy An"
+        }
+      ]
+    },
+    {
+      "name": "Quảng Bình",
+      "cities": [
+        {
+          "name": "Thành phố Đồng Hới"
+        },
+        {
+          "name": "Huyện Bố Trạch"
+        },
+        {
+          "name": "Huyện Lệ Thủy"
+        },
+        {
+          "name": "Huyện Minh Hóa"
+        },
+        {
+          "name": "Huyện Quảng Trạch"
+        },
+        {
+          "name": "Huyện Quảng Ninh"
+        },
+        {
+          "name": "Huyện Tuyên Hóa"
+        }
+      ]
+    },
+    {
+      "name": "Quảng Nam",
+      "cities": [
+        {
+          "name": "Thành phố Tam Kỳ"
+        },
+        {
+          "name": "Thành phố Hội An"
+        },
+        {
+          "name": "Huyện Duy Xuyên"
+        },
+        {
+          "name": "Huyện Đại Lộc"
+        },
+        {
+          "name": "Huyện Điện Bàn"
+        },
+        {
+          "name": "Huyện Đông Giang"
+        },
+        {
+          "name": "Huyện Nam Giang"
+        },
+        {
+          "name": "Huyện Tây Giang"
+        },
+        {
+          "name": "Huyện Quế Sơn"
+        },
+        {
+          "name": "Huyện Hiệp Đức"
+        },
+        {
+          "name": "Huyện Núi Thành"
+        },
+        {
+          "name": "Huyện Nam Trà My"
+        },
+        {
+          "name": "Huyện Bắc Trà My"
+        },
+        {
+          "name": "Huyện Phú Ninh"
+        },
+        {
+          "name": "Huyện Phước Sơn"
+        },
+        {
+          "name": "Huyện Thăng Bình"
+        },
+        {
+          "name": "Huyện Tiên Phước"
+        },
+        {
+          "name": "Huyện Nông Sơn"
+        }
+      ]
+    },
+    {
+      "name": "Quảng Ngãi",
+      "cities": [
+        {
+          "name": "Thành phố Quảng Ngãi"
+        },
+        {
+          "name": "Huyện Ba Tơ"
+        },
+        {
+          "name": "Huyện Bình Sơn"
+        },
+        {
+          "name": "Huyện Đức Phổ"
+        },
+        {
+          "name": "Huyện Minh Long"
+        },
+        {
+          "name": "Huyện Mộ Đức"
+        },
+        {
+          "name": "Huyện Nghĩa Hành"
+        },
+        {
+          "name": "Huyện Sơn Hà"
+        },
+        {
+          "name": "Huyện Sơn Tây"
+        },
+        {
+          "name": "Huyện Sơn Tịnh"
+        },
+        {
+          "name": "Huyện Tây Trà"
+        },
+        {
+          "name": "Huyện Trà Bồng"
+        },
+        {
+          "name": "Huyện Tư Nghĩa"
+        },
+        {
+          "name": "Huyện đảo Lý Sơn"
+        }
+      ]
+    },
+    {
+      "name": "Quảng Ninh",
+      "cities": [
+        {
+          "name": "Thành phố Hạ Long"
+        },
+        {
+          "name": "Thị xã Cẩm Phả"
+        },
+        {
+          "name": "Thị xã Móng Cái"
+        },
+        {
+          "name": "Thị xã Uông Bí"
+        },
+        {
+          "name": "Huyện Ba Chẽ"
+        },
+        {
+          "name": "Huyện Bình Liêu"
+        },
+        {
+          "name": "Huyện Cô Tô"
+        },
+        {
+          "name": "Huyện Đầm Hà"
+        },
+        {
+          "name": "Huyện Đông Triều"
+        },
+        {
+          "name": "Huyện Hải Hà"
+        },
+        {
+          "name": "Huyện Hoành Bồ"
+        },
+        {
+          "name": "Huyện Tiên Yên"
+        },
+        {
+          "name": "Huyện Vân Đồn"
+        },
+        {
+          "name": "Huyện Yên Hưng"
+        }
+      ]
+    },
+    {
+      "name": "Quảng Trị",
+      "cities": [
+        {
+          "name": "Thị xã Đông Hà"
+        },
+        {
+          "name": "Thị xã Quảng Trị"
+        },
+        {
+          "name": "Huyện Cam Lộ"
+        },
+        {
+          "name": "Huyện Cồn Cỏ"
+        },
+        {
+          "name": "Huyện Đa Krông"
+        },
+        {
+          "name": "Huyện Gio Linh"
+        },
+        {
+          "name": "Huyện Hải Lăng"
+        },
+        {
+          "name": "Huyện Hướng Hóa"
+        },
+        {
+          "name": "Huyện Triệu Phong"
+        },
+        {
+          "name": "Huyện Vĩnh Linh"
+        }
+      ]
+    },
+    {
+      "name": "Sóc Trăng",
+      "cities": [
+        {
+          "name": "Thành phố Sóc Trăng"
+        },
+        {
+          "name": "Huyện Long Phú"
+        },
+        {
+          "name": "Cù Lao Dung"
+        },
+        {
+          "name": "Mỹ Tú"
+        },
+        {
+          "name": "Thạnh Trị"
+        },
+        {
+          "name": "Vĩnh Châu"
+        },
+        {
+          "name": "Ngã Năm"
+        },
+        {
+          "name": "Kế Sách"
+        },
+        {
+          "name": "Mỹ Xuyên"
+        }
+      ]
+    },
+    {
+      "name": "Sơn La",
+      "cities": [
+        {
+          "name": "Thị xã Sơn La"
+        },
+        {
+          "name": "Huyện Quỳnh Nhai"
+        },
+        {
+          "name": "Huyện Mường La"
+        },
+        {
+          "name": "Huyện Thuận Châu"
+        },
+        {
+          "name": "Huyện Phù Yên"
+        },
+        {
+          "name": "Huyện Bắc Yên"
+        },
+        {
+          "name": "Huyện Mai Sơn"
+        },
+        {
+          "name": "Huyện Sông Mã"
+        },
+        {
+          "name": "Huyện Yên Châu"
+        },
+        {
+          "name": "Huyện Mộc Châu"
+        },
+        {
+          "name": "Huyện Sốp Cộp"
+        }
+      ]
+    },
+    {
+      "name": "Tây Ninh",
+      "cities": [
+        {
+          "name": "Thị xã Tây Ninh"
+        },
+        {
+          "name": "Huyện Tân Biên"
+        },
+        {
+          "name": "Huyện Tân Châu"
+        },
+        {
+          "name": "Huyện Dương Minh Châu"
+        },
+        {
+          "name": "Huyện Châu Thành"
+        },
+        {
+          "name": "Huyện Hòa Thành"
+        },
+        {
+          "name": "Huyện Bến Cầu"
+        },
+        {
+          "name": "Huyện Gò Dầu"
+        },
+        {
+          "name": "Huyện Trảng Bàng"
+        }
+      ]
+    },
+    {
+      "name": "Thái Bình",
+      "cities": [
+        {
+          "name": "Thành phố Thái Bình"
+        },
+        {
+          "name": "Huyện Đông Hưng"
+        },
+        {
+          "name": "Huyện Hưng Hà"
+        },
+        {
+          "name": "Huyện Kiến Xương"
+        },
+        {
+          "name": "Huyện Quỳnh Phụ"
+        },
+        {
+          "name": "Huyện Thái Thụy"
+        },
+        {
+          "name": "Huyện Tiền Hải"
+        },
+        {
+          "name": "Huyện Vũ Thư"
+        }
+      ]
+    },
+    {
+      "name": "Thái Nguyên",
+      "cities": [
+        {
+          "name": "Thành phố Thái Nguyên"
+        },
+        {
+          "name": "Thị xã Sông Công"
+        },
+        {
+          "name": "Huyện Phổ Yên"
+        },
+        {
+          "name": "Huyện Phú Bình"
+        },
+        {
+          "name": "Huyện Đồng Hỷ"
+        },
+        {
+          "name": "Huyện Võ Nhai"
+        },
+        {
+          "name": "Huyện Định Hóa"
+        },
+        {
+          "name": "Huyện Đại Từ"
+        },
+        {
+          "name": "Huyện Phú Lương"
+        }
+      ]
+    },
+    {
+      "name": "Thanh Hoá",
+      "cities": [
+        {
+          "name": "Thành phố Thanh Hóa"
+        },
+        {
+          "name": "Thị xã Bỉm Sơn"
+        },
+        {
+          "name": "Thị xã Sầm Sơn"
+        },
+        {
+          "name": "Huyện Bá Thước"
+        },
+        {
+          "name": "Huyện Cẩm Thủy"
+        },
+        {
+          "name": "Huyện Đông Sơn"
+        },
+        {
+          "name": "Huyện Hà Trung"
+        },
+        {
+          "name": "Huyện Hậu Lộc"
+        },
+        {
+          "name": "Huyện Hoằng Hóa"
+        },
+        {
+          "name": "Huyện Lang Chánh"
+        },
+        {
+          "name": "Huyện Mường Lát"
+        },
+        {
+          "name": "Huyện Nga Sơn"
+        },
+        {
+          "name": "Huyện Ngọc Lặc"
+        },
+        {
+          "name": "Huyện Như Thanh"
+        },
+        {
+          "name": "Huyện Như Xuân"
+        },
+        {
+          "name": "Huyện Nông Cống"
+        },
+        {
+          "name": "Huyện Quan Hóa"
+        },
+        {
+          "name": "Huyện Quan Sơn"
+        },
+        {
+          "name": "Huyện Quảng Xương"
+        },
+        {
+          "name": "Huyện Thạch Thành"
+        },
+        {
+          "name": "Huyện Thiệu Hóa"
+        },
+        {
+          "name": "Huyện Thọ Xuân"
+        },
+        {
+          "name": "Huyện Thường Xuân"
+        },
+        {
+          "name": "Huyện Tĩnh Gia"
+        },
+        {
+          "name": "Huyện Triệu Sơn"
+        },
+        {
+          "name": "Huyện Vĩnh Lộc"
+        },
+        {
+          "name": "Huyện Yên Định"
+        }
+      ]
+    },
+    {
+      "name": "Thừa Thiên-Huế",
+      "cities": [
+        {
+          "name": "Thành phố Huế"
+        },
+        {
+          "name": "Huyện A Lưới"
+        },
+        {
+          "name": "Huyện Hương Thủy"
+        },
+        {
+          "name": "Huyện Hương Trà"
+        },
+        {
+          "name": "Huyện Nam Đông"
+        },
+        {
+          "name": "Huyện Phong Điền"
+        },
+        {
+          "name": "Huyện Phú Lộc"
+        },
+        {
+          "name": "Huyện Phú Vang"
+        },
+        {
+          "name": "Huyện Quảng Điền"
+        }
+      ]
+    },
+    {
+      "name": "Tiền Giang",
+      "cities": [
+        {
+          "name": "Thành phố Mỹ Tho"
+        },
+        {
+          "name": "Thị xã Gò Công"
+        },
+        {
+          "name": "Huyện Gò Công Đông"
+        },
+        {
+          "name": "Huyện Gò Công Tây"
+        },
+        {
+          "name": "Huyện Chợ Gạo"
+        },
+        {
+          "name": "Huyện Châu Thành"
+        },
+        {
+          "name": "Huyện Tân Phước"
+        },
+        {
+          "name": "Huyện Cai Lậy"
+        },
+        {
+          "name": "Huyện Cái Bè"
+        },
+        {
+          "name": "Huyện Tân Phú Đông"
+        }
+      ]
+    },
+    {
+      "name": "Trà Vinh",
+      "cities": [
+        {
+          "name": "Thị xã Trà Vinh"
+        },
+        {
+          "name": "Huyện Càng Long"
+        },
+        {
+          "name": "Huyện Châu Thành"
+        },
+        {
+          "name": "Huyện Cầu Kè"
+        },
+        {
+          "name": "Huyện Tiểu Cần"
+        },
+        {
+          "name": "Huyện Cầu Ngang"
+        },
+        {
+          "name": "Huyện Trà Cú"
+        },
+        {
+          "name": "Huyện Duyên Hải"
+        }
+      ]
+    },
+    {
+      "name": "Tuyên Quang",
+      "cities": [
+        {
+          "name": "Thị xã Tuyên Quang"
+        },
+        {
+          "name": "Huyện Chiêm Hoá"
+        },
+        {
+          "name": "Huyện Hàm Yên"
+        },
+        {
+          "name": "Huyện Na Hang"
+        },
+        {
+          "name": "Huyện Sơn Dương"
+        },
+        {
+          "name": "Huyện Yên Sơn"
+        }
+      ]
+    },
+    {
+      "name": "Vĩnh Long",
+      "cities": [
+        {
+          "name": "Thị xã Vĩnh Long"
+        },
+        {
+          "name": "Huyện Bình Minh"
+        },
+        {
+          "name": "Huyện Bình Tân"
+        },
+        {
+          "name": "Huyện Long Hồ"
+        },
+        {
+          "name": "Huyện Mang Thít"
+        },
+        {
+          "name": "Huyện Tam Bình"
+        },
+        {
+          "name": "Huyện Trà Ôn"
+        },
+        {
+          "name": "Huyện Vũng Liêm"
+        }
+      ]
+    },
+    {
+      "name": "Vĩnh Phúc",
+      "cities": [
+        {
+          "name": "Thành phố Vĩnh Yên"
+        },
+        {
+          "name": "Thị xã Phúc Yên"
+        },
+        {
+          "name": "Huyện Bình Xuyên"
+        },
+        {
+          "name": "Huyện Lập Thạch"
+        },
+        {
+          "name": "Huyện Tam Dương"
+        },
+        {
+          "name": "Huyện Tam Đảo"
+        },
+        {
+          "name": "Huyện Vĩnh Tường"
+        },
+        {
+          "name": "Huyện Yên Lạc"
+        }
+      ]
+    },
+    {
+      "name": "Yên Bái",
+      "cities": [
+        {
+          "name": "Thành phố Yên Bái"
+        },
+        {
+          "name": "Thị xã Nghĩa Lộ"
+        },
+        {
+          "name": "Huyện Lục Yên"
+        },
+        {
+          "name": "Huyện Mù Cang Chải"
+        },
+        {
+          "name": "Huyện Trấn Yên"
+        },
+        {
+          "name": "Huyện Trạm Tấu"
+        },
+        {
+          "name": "Huyện Văn Chấn"
+        },
+        {
+          "name": "Huyện Văn Yên"
+        },
+        {
+          "name": "Huyện Yên Bình"
+        }
+      ]
+    }
+  ]
+}

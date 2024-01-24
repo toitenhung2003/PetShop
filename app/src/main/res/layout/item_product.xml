@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="5dp"
+    android:id="@+id/root">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        app:cardElevation="8dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/tv_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/be_vietnam_pro_bold"
+                android:maxWidth="240dp"
+                android:text="High-Rise Baggy Jeans"
+                android:textColor="@color/myColor"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_desc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv_name"
+                android:layout_alignStart="@+id/tv_name"
+                android:layout_marginStart="0dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="5dp"
+                android:fontFamily="@font/be_vietnam_pro_light"
+                android:gravity="left"
+                android:maxWidth="280dp"
+                android:text="Stylish and Chic Wide-leg Pants Make your leg looks slimmer Perfectly show off your slender"
+                android:textColor="@color/myColor"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv_desc"
+                android:layout_alignStart="@+id/tv_desc"
+                android:layout_marginStart="0dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="10dp"
+                android:fontFamily="@font/be_vietnam_pro_regular"
+                android:gravity="left"
+                android:maxWidth="200dp"
+                android:text="599.000 đ"
+                android:textColor="@color/myColor"
+                android:textSize="20sp" />
+
+            <ImageView
+                android:id="@+id/img_product"
+                android:layout_width="100dp"
+                android:layout_height="125dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:src="@drawable/add_image" />
+
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+</LinearLayout>
